@@ -1,0 +1,39 @@
+{
+  "id": 1,
+  "name": "Rate Laws, Graphs, and Half-Life",
+  "notes": "differential rate law: first order, second order, third order",
+  "videos": [
+    "link1",
+    "link2",
+    "link3"
+  ],
+  "questions": [
+    {
+      "prompt": "title",
+      "answer": "solution",
+      "choices": [
+        "wrong_choice_1",
+        "wrong_choice_2",
+        "wrong_choice_3"
+      ]
+    },
+    {
+      "prompt": "title",
+      "answer": "solution",
+      "choices": [
+        "wrong_choice_1",
+        "wrong_choice_2",
+        "wrong_choice_3"
+      ]
+    },
+    {
+      "prompt": "title",
+      "answer": "solution",
+      "choices": [
+        "wrong_choice_1",
+        "wrong_choice_2",
+        "wrong_choice_3"
+      ]
+    }
+  ]
+}

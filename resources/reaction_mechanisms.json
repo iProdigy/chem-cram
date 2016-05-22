@@ -1,0 +1,39 @@
+{
+  "id": 2,
+  "name": "Reaction Mechanisms",
+  "notes": "a mechanism is a series of stepwise reactions that show how reactants become products",
+  "videos": [
+    "link1",
+    "link2",
+    "link3"
+  ],
+  "questions": [
+    {
+      "prompt": "title",
+      "answer": "solution",
+      "choices": [
+        "wrong_choice_1",
+        "wrong_choice_2",
+        "wrong_choice_3"
+      ]
+    },
+    {
+      "prompt": "title",
+      "answer": "solution",
+      "choices": [
+        "wrong_choice_1",
+        "wrong_choice_2",
+        "wrong_choice_3"
+      ]
+    },
+    {
+      "prompt": "title",
+      "answer": "solution",
+      "choices": [
+        "wrong_choice_1",
+        "wrong_choice_2",
+        "wrong_choice_3"
+      ]
+    }
+  ]
+}
