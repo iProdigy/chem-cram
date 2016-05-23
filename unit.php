@@ -31,7 +31,7 @@ if (!isset($unit)) {
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="description" content="A streamlined platform to review AP Chemistry concepts and do practice problems.">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
-    <title><?php echo $unit->name . " - Chem Cram";?></title>
+    <title><?php echo $unit->name . " - Chem Cram"; ?></title>
 
     <!-- Add to homescreen for Chrome on Android -->
     <meta name="mobile-web-app-capable" content="yes">
@@ -60,20 +60,22 @@ if (!isset($unit)) {
     <link rel="icon" sizes="96x96" href="resources/images/favicon-96x96.png">
 </head>
 <body>
-<div class="demo-blog mdl-layout mdl-js-layout has-drawer is-upgraded">
-    <div class="mdl-layout__header mdl-layout__header--scroll mdl-color--primary">
-        <div class="mdl-layout--large-screen-only mdl-layout__header-row">
+<div class="demo-blog mdl-layout mdl-js-layout mdl-layout--fixed-header has-drawer is-upgraded">
+    <header>
+        <div class="mdl-layout__header mdl-layout__header--scroll mdl-color--primary">
+            <div class="mdl-layout--large-screen-only mdl-layout__header-row">
+            </div>
+            <div class="mdl-layout--large-screen-only mdl-layout__header-row">
+                <h3>Chem Cram: <strong><?php echo $unit->title; ?></strong></h3>
+            </div>
+            <div class="mdl-layout--large-screen-only mdl-layout__header-row">
+            </div>
+            <div class="mdl-layout__tab-bar mdl-js-ripple-effect mdl-color--primary-dark" style="width: 100%">
+                <a href="index.php" class="mdl-layout__tab">Back</a>
+                <a href="unit.php?name=kinetics" class="mdl-layout__tab is-active">Kinetics</a>
+            </div>
         </div>
-        <div class="mdl-layout--large-screen-only mdl-layout__header-row">
-            <h2>
-                <?php
-                echo $unit->title;
-                ?>
-            </h2>
-        </div>
-        <div class="mdl-layout--large-screen-only mdl-layout__header-row">
-        </div>
-    </div>
+    </header>
 
     <main class="mdl-layout__content" style="padding-top: 100px !important;">
         <div class="demo-blog__posts mdl-grid">

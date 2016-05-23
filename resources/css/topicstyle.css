@@ -1,3 +1,50 @@
+.demo-blog .mdl-layout__header-row {
+    padding-left: 40px !important;
+}
+
+.demo-blog .mdl-layout.is-small-screen .mdl-layout__header-row h3 {
+    font-size: inherit !important;
+}
+
+.demo-blog .mdl-layout__tab-bar-button {
+    display: none !important;
+}
+
+.demo-blog .mdl-layout.is-small-screen .mdl-layout__tab-bar .mdl-button {
+    display: none !important;
+}
+
+.demo-blog .mdl-layout:not(.is-small-screen) .mdl-layout__tab-bar,
+.demo-blog .mdl-layout:not(.is-small-screen) .mdl-layout__tab-bar-container {
+    overflow: visible !important;
+}
+
+.demo-blog .mdl-layout__tab-bar-container {
+    height: 64px !important;
+}
+
+.demo-blog .mdl-layout__tab-bar {
+    padding: 0 !important;
+    padding-left: 16px !important;
+    box-sizing: border-box !important;
+    height: 100% !important;
+    width: 100% !important;
+}
+
+.demo-blog .mdl-layout__tab-bar .mdl-layout__tab {
+    height: 64px !important;
+    line-height: 64px !important;
+}
+
+.demo-blog .mdl-layout__tab-bar .mdl-layout__tab.is-active::after {
+    height: 4px !important;
+}
+
+.demo-blog main > .mdl-layout__tab-panel {
+    padding: 8px !important;
+    padding-top: 48px !important;
+}
+
 body::before {
     background-size: cover;
     background-attachment: fixed;
