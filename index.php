@@ -33,7 +33,8 @@
     <link rel="icon" sizes="72x72" href="resources/images/favicon-72x72.png">
     <link rel="icon" sizes="96x96" href="resources/images/favicon-96x96.png">
 </head>
-<body class="mdl-demo mdl-color--grey-100 mdl-color-text--grey-700 mdl-base">
+<body class="mdl-demo mdl-color--grey-100 mdl-color-text--grey-700 mdl-base"
+      style="background: url(resources/images/bg.jpg) no-repeat; background-size: 100% 100%">
 <div class="mdl-layout mdl-js-layout mdl-layout--fixed-header">
     <header class="mdl-layout__header mdl-layout__header--scroll mdl-color--primary">
         <div class="mdl-layout--large-screen-only mdl-layout__header-row">
