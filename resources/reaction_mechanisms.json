@@ -8,30 +8,33 @@
   ],
   "questions": [
     {
-      "prompt": "title",
-      "answer": "solution",
+      "prompt": "Suppose the reaction: A + 2B --> AB2 occurs by the following mechanism:<br/>Step 1 A + B --> AB slow<br/>Step 2 AB + B --> AB2 fast<br/>Overall A + 2B --> AB2<br/>The rate law equation must be:",
+      "answer": "k[A][B]",
       "choices": [
-        "wrong_choice_1",
-        "wrong_choice_2",
-        "wrong_choice_3"
+        "k[A]",
+        "k[B]",
+        "k[B]2",
+        "k[A][B]2"
       ]
     },
     {
-      "prompt": "title",
-      "answer": "solution",
+      "prompt": "A possible mechanism for the reaction, 2A + B --> C + D, is:<br/> (1) A + A --> A2 fast, equilibrium<br/> (2) A2 + A --> A3 slow<br/> (3) A3 + B --> A + C + D fast<br/> According to the mechanism, the rate law will be:",
+      "answer": "Rate = k[A]3",
       "choices": [
-        "wrong_choice_1",
-        "wrong_choice_2",
-        "wrong_choice_3"
+        "Rate = k[A]2",
+        "Rate = k[A][B]",
+        "Rate = k[A]2[B]",
+        "Rate = k[A]"
       ]
     },
     {
-      "prompt": "title",
-      "answer": "solution",
+      "prompt": "For the following mechanism,<br/> A. H2O2 (aq) + Br- (aq) --> H2O (aq) + OBr- (aq) Slow<br/> B. H2O2 (aq) + OBr- (aq) --> H2O (aq) + Br- (aq) + O2 (g) Fast<br/> What is the overall reaction?<br/>",
+      "answer": "2H2O2 (aq) --> 2H2O (aq) + O2 (g)",
       "choices": [
-        "wrong_choice_1",
-        "wrong_choice_2",
-        "wrong_choice_3"
+        "H2O2 (aq) + OBr- (aq) --> H2O (aq) + Br- (aq) + O2 (g)",
+        "H2O2 (aq) + Br- (aq) --> H2O (aq) + OBr- (aq)",
+        "2H2O2 (aq) + Br- (aq) --> 2H2O (aq) + OBr- (aq) + O2 (g)",
+        "2H2O2 (aq) + Br- (aq) --> 2H2O (aq) + Br- (aq) + O2 (g)"
       ]
     }
   ]

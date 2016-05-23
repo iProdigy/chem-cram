@@ -12,30 +12,33 @@
   ],
   "questions": [
     {
-      "prompt": "title",
-      "answer": "solution",
+      "prompt": "For a reaction 2A + B -> 2C, with the rate equation: Rate = k[A]^2[B]",
+      "answer": "the order with respect to A is 2 and the order overall is 3.",
       "choices": [
-        "wrong_choice_1",
-        "wrong_choice_2",
-        "wrong_choice_3"
+        "the order with respect to A is 1 and the order overall is 1.",
+        "the order with respect to A is 2 and the order overall is 2.",
+        "the order with respect to B is 2 and the order overall is 2.",
+        "the order with respect to B is 2 and the order overall is 3."
       ]
     },
     {
-      "prompt": "title",
-      "answer": "solution",
+      "prompt": "What are the units of k for the rate law: Rate = k[A][B]2, when the concentration unit is mol/L?",
+      "answer": " L2 mol-2 s-1",
       "choices": [
-        "wrong_choice_1",
-        "wrong_choice_2",
-        "wrong_choice_3"
+        "s-1",
+        "s",
+        "L mol-1 s-1",
+        "L2 s2 mol-2"
       ]
     },
     {
-      "prompt": "title",
-      "answer": "solution",
+      "prompt": "Given: A + 3B -> 2C + D This reaction is first order with respect to reactant A and second order with respect to reactant B. If the concentration of A is doubled and the concentration of B is halved, the rate of the reaction would _____ by a factor of _____.",
+      "answer": "decrease, 2",
       "choices": [
-        "wrong_choice_1",
-        "wrong_choice_2",
-        "wrong_choice_3"
+        "increase, 2",
+        "increase, 4",
+        "decrease, 4",
+        "not change"
       ]
     }
   ]
