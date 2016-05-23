@@ -240,8 +240,8 @@
                     © Nids & Sidd
                 </div>
                 <ul class="mdl-mega-footer--link-list">
-                    <li><a href="https://github.com/iProdigy/chem-cram">Source Code</a></li>
-                    <li><a href="http://www.micds.org/page">MICDS</a></li>
+                    <li><a href="https://github.com/iProdigy/chem-cram" target="_blank">Source Code</a></li>
+                    <li><a href="http://www.micds.org/page" target="_blank">MICDS</a></li>
                     <li><a href="unit.php?name=kinetics">Kinetics</a></li>
                 </ul>
             </div>
