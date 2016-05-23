@@ -2,7 +2,7 @@
   "id": 0,
   "name": "Factors that affect Reaction Rate",
   "desc": "Here we explore exactly what effects go into determining the reaction rate, why, and how they can alter the value.",
-  "notes": "physical state of reactants, concentrations, temperature, activation energy (catalysts)",
+  "notes": "Rate is the change in concentration over time <br/><br/> Collision Model: reactants must collide with enough energy in the right orientation for a reaction to take place <br/><br/> Physical State of Reactants Homogenous? If a solid, surface area becomes relevant <br/><br/> Concentration More molecules present means there is a greater likelihood for collisions to occur with the right energy and orientation, increasing the reaction rate <br/><br/> Temperature Greater absolute temperature means the molecules have a greater average kinetic energy which increases the likelihood of collisions occuring with the right orientation and energy for the reaction to take place <br/><br/> Activation Energy For a reaction to take place, the activation energy barrier must be overcome Catalysts can speed up a reaction by providing a reaction mechanism with a lower activation energy Note that catalysts are not part of the overall balanced reaction and are not created then consumed like intermediates Enzymes are a type of catalyst that we can analyze through the Enzyme-Substrate model <br/><br/>",
   "videos": [
     "https://www.youtube.com/embed/S1sWvCOTUl8",
     "https://www.youtube.com/embed/iaFgU3DP2S8",

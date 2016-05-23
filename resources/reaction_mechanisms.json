@@ -2,7 +2,7 @@
   "id": 2,
   "name": "Reaction Mechanisms",
   "desc": "In this section we will be exploring the steps that must occur for reactant to become products, the role of intermediates and catalysts, and how steps can affect the reaction rate.",
-  "notes": "a mechanism is a series of stepwise reactions that show how reactants become products",
+  "notes": "A mechanism is a series of stepwise reactions that show how reactants become products. <br/><br/> <img src=\"http://wps.prenhall.com/wps/media/objects/4679/4791471/images/table12_5.gif\" style=\"width:100%;height:100%\"> <br/><br/> The rate determining step is the slowest step of a chemical reaction that determines the speed (rate) at which the overall reaction proceeds. <br/><br/> <img src=\"http://www.chem.ucla.edu/~harding/IGOC/R/rate_determining_step01.jpg\" style=\"width:100%;height:100%\"> <br/><br/> Requirements of a plausible mechanism <br/> The rate law must be able to be devised from the rate-determining step.<br/> The stoichiometry must be obtained when all steps are added up.<br/> Each step must balance, like any equation.<br/> All intermediates are made and used up.<br/> Any catalyst is used and regenerated",
   "videos": [
     "https://www.youtube.com/embed/Bu_f-UkMAio"
   ],
