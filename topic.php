@@ -177,7 +177,7 @@ if (!isset($topic)) {
                             <textarea rows=1 class="mdl-textfield__input" id="comment"></textarea>
                             <label for="comment" class="mdl-textfield__label">Join the discussion</label>
                         </div>
-                        <button class="mdl-button mdl-js-button mdl-js-ripple-effect mdl-button--icon">
+                        <button type=button class="mdl-button mdl-js-button mdl-js-ripple-effect mdl-button--icon">
                             <i class="material-icons" role="presentation">check</i><span class="visuallyhidden">add comment</span>
                         </button>
                     </form>
