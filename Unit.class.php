@@ -2,5 +2,5 @@
 
 class Unit
 {
-    public $id, $name, $topics;
+    public $id, $name, $title, $topics;
 }

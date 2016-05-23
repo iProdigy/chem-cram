@@ -1,6 +1,7 @@
 {
-  "id": 1,
-  "name": "balancing",
+  "id": 0,
+  "name": "kinetics",
+  "title": "Rates and Kinetics",
   "topics": [
     "reaction_rate_factors.json",
     "rate_laws.json",

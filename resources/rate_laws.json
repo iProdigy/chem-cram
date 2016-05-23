@@ -1,11 +1,14 @@
 {
   "id": 1,
   "name": "Rate Laws, Graphs, and Half-Life",
+  "desc": "Here we explore everything you have to know about the differential rate law from determining the order to drawing the graph of how the concentration changes over time.",
   "notes": "differential rate law: first order, second order, third order",
   "videos": [
-    "link1",
-    "link2",
-    "link3"
+    "https://www.youtube.com/embed/6Ng8ayarWHw",
+    "https://www.youtube.com/embed/wyQEPWTGHao",
+    "https://www.youtube.com/embed/NtN2oxWoduo",
+    "https://www.youtube.com/embed/smcyZ_r0A88",
+    "https://www.youtube.com/embed/3qN4h1YwHRE"
   ],
   "questions": [
     {

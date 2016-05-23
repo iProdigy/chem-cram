@@ -25,6 +25,10 @@ if (!$ran) {
                     $unit->name = $value;
                     break;
 
+                case "title":
+                    $unit->title = $value;
+                    break;
+
                 case "topics":
                     $topics = [];
 
@@ -42,6 +46,10 @@ if (!$ran) {
 
                                 case "name":
                                     $topic->name = $topicValue;
+                                    break;
+
+                                case "desc":
+                                    $topic->desc = $topicValue;
                                     break;
 
                                 case "notes":

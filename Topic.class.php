@@ -2,5 +2,5 @@
 
 class Topic
 {
-    public $id, $name, $notes, $videos, $questions;
+    public $id, $name, $desc, $notes, $videos, $questions;
 }

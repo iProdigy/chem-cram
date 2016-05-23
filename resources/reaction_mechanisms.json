@@ -1,11 +1,10 @@
 {
   "id": 2,
   "name": "Reaction Mechanisms",
+  "desc": "In this section we will be exploring the steps that must occur for reactant to become products, the role of intermediates and catalysts, and how steps can affect the reaction rate.",
   "notes": "a mechanism is a series of stepwise reactions that show how reactants become products",
   "videos": [
-    "link1",
-    "link2",
-    "link3"
+    "https://www.youtube.com/embed/Bu_f-UkMAio"
   ],
   "questions": [
     {

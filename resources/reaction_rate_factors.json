@@ -1,11 +1,13 @@
 {
   "id": 0,
   "name": "Factors that affect Reaction Rate",
+  "desc": "Here we explore exactly what effects go into determining the reaction rate, why, and how they can alter the value.",
   "notes": "physical state of reactants, concentrations, temperature, activation energy (catalysts)",
   "videos": [
-    "link1",
-    "link2",
-    "link3"
+    "https://www.youtube.com/embed/S1sWvCOTUl8",
+    "https://www.youtube.com/embed/iaFgU3DP2S8",
+    "https://www.youtube.com/embed/=epgiancb3MA",
+    "https://www.youtube.com/embed/KYD5LNVWne8"
   ],
   "questions": [
     {
